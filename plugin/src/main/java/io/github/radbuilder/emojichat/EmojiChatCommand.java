@@ -44,7 +44,7 @@ class EmojiChatCommand implements CommandExecutor {
 					return true;
 				}
 				
-				sender.sendMessage(ChatColor.AQUA + "---------- EmojiChat Help ----------");
+				sender.sendMessage(ChatColor.AQUA + "---------- JamesEmojiChat Help ----------");
 				sender.sendMessage(ChatColor.GREEN + "/emojichat help: " + ChatColor.AQUA + "Opens up this help menu.");
 				sender.sendMessage(ChatColor.GREEN + "/emojichat resourcepack: " + ChatColor.AQUA + "Re-sends the resourcepack.");
 				sender.sendMessage(ChatColor.GREEN + "/emojichat reload: " + ChatColor.AQUA + "Reloads the EmojiChat config.");

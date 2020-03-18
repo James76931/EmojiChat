@@ -382,7 +382,7 @@
 :stew:
 :fish_cake:
 :sushi:
-:bento:
+:james7Baldi: #originally :bento:
 :curry:
 :rice_ball:
 :rice:
@@ -508,7 +508,7 @@
 :mount_fuji:
 :volcano:
 :tent:
-:railway_track:
+:james7Dab: # originally :railway_track:
 :sunrise:
 :sunrise_over_mountains:
 :desert:
